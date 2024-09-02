@@ -19,7 +19,7 @@ def profile():
     
     if choice == "Expertise":
         languages = ["Python", "JavaScript", "Java", "C"]
-        expertise_levels = [70, 40, 80, 20]  # Percentage of expertise
+        expertise_levels = [50, 20, 60, 10]  # Percentage of expertise
         
         # Create a chart
         fig, ax = plt.subplots()
