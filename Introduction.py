@@ -19,7 +19,6 @@ def introduction():
             Personal Life
                  
             I grew up in a close-knit family. As a young child, I was always curious about everything. I am surrounded by people who instill good values in me, shaping me into the person I am today. I enjoy cycling, playing table tennis, video games, and traveling. I also have a passion for photography.
-            photography.   
 
             Achievements 
                  
